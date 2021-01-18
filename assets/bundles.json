@@ -1,0 +1,62 @@
+{
+    "Crafts Room": {
+        "reward": "Bridge repair",
+        "bundles": [
+            { "Spring Foraging Bundle": ["Wild Horseradish", "Daffodil", "Leek", "Dandelion"], "need": 4, "reward": "Spring Seeds (30)" },
+            { "Summer Foraging Bundle": ["Grape", "Spice Berry", "Sweet Pea"], "need": 3, "reward": "Summer Seeds (30)" },
+            { "Fall Foraging Bundle": ["Common Mushroom", "Wild Plum", "Hazelnut", "Blackberry"], "need": 4, "reward": "Fall Seeds (30)" },
+            { "Winter Foraging Bundle": ["Winter Root", "Crystal Fruit", "Snow Yam", "Crocus"], "need": 4, "reward": "Winter Seeds (30)" },
+            { "Construction Bundle": ["Wood (99)", "Wood (99)", "Stone (99)", "Hardwood (10)"], "need": 4, "reward": "Charcoal Kiln" },
+            { "Exotic Foraging Bundle": ["Coconut", "Cactus Fruit", "Cave Carrot", "Red Mushroom", "Purple Mushroom", "Maple Syrup", "Oak Resin", "Pine Tar", "Morel"], "need": 5, "reward": "Autumns Bounty (5)" }
+        ]
+    },
+    "Pantry": {
+        "reward": "Greenhouse",
+        "bundles": [
+            { "Spring Crops Bundle": ["Parsnip", "Green Bean", "Cauliflower", "Potato"], "need": 4, "reward": "Speed Gro (20)" },
+            { "Summer Crops Bundle": ["Tomato", "Hot Pepper", "Blueberry", "Melon"], "need": 4, "reward": "Quality Sprinkler" },
+            { "Fall Crops Bundle": ["Corn", "Eggplant", "Pumpkin", "Yam"], "need": 4, "reward": "Bee House" },
+            { "Quality Crops Bundle": ["Parsnip (5)", "Melon (5)", "Pumpkin (5)", "Corn (5)"], "need": 3, "reward": "Preserves Jar" },
+            { "Animal Bundle": ["Large Milk", "Large Egg Brown", "Large Egg White", "Large Goat Milk", "Large Goat Milk", "Wool", "Duck Egg"], "need": 5, "reward": "Cheese Press" },
+            { "Artisan Bundle": ["Truffle Oil", "Cloth", "Cheese", "Goat Cheese", "Honey", "Jelly", "Apple", "Apricot", "Orange", "Peach", "Pomegranate", "Cherry"], "need": 6, "reward": "Keg" }
+        ]
+    },
+    "Fish Tank": {
+        "reward": "Glittering Boulder Removed",
+        "bundles": [
+            { "River Fish Bundle": ["Sunfish", "Catfish", "Shad", "Tiger Trout"], "need": 4, "reward": "Bait (30)" },
+            { "Lake Fish Bundle": ["Largemouth Bass", "Carp", "Bullhead", "Sturgeon"], "need": 4, "reward": "Dressed Spinner" },
+            { "Ocean Fish Bundle": ["Sardine", "Tuna", "Red Snapper", "Tilapia"], "need": 4, "reward": "Warp Totem (5)" },
+            { "Night Fish Bundle": ["Walleye", "Bream", "Eel"], "need": 3, "reward": "Small Glow Ring" },
+            { "Crab Pot Bundle": ["Lobster", "Crayfish", "Crab", "Cockle", "Mussel", "Shrimp", "Snail", "Periwinkle", "Oyster", "Clam"], "need": 5, "reward": "Crab Pot (3)" },
+            { "Specialty Fish Bundle": ["Pufferfish", "Ghostfish", "Sandfish", "Woodskip"], "need": 4, "reward": "Dish o' the Sea (5)" }
+        ]
+    },
+    "Boiler Room": {
+        "reward": "Minecarts Repaired",
+        "bundles": [
+            { "Blacksmith's Bundle": ["Copper Bar", "Iron Bar", "Gold Bar"], "need": 3, "reward": "Furnace" },
+            { "Geoligist's Bundle": ["Quartz", "Earth Crystal", "Frozen Tear", "Fire Quartz"], "need": 4, "reward": "Omni Geode (5)" },
+            { "Adventurer's Bundle": ["Slime (99)", "Bat Wing (10)", "Solar Essence", "Void Essence"], "need": 2, "reward": "Small Magnet Ring" }
+        ]
+    },
+    "Bulletin Board": {
+        "reward": "Friendship",
+        "bundles": [
+            { "Chef's Bundle": ["Maple Syrup", "Fiddlehead Fern", "Truffle", "Poppy", "Maki Roll", "Fried Egg"], "need": 6, "reward": "Pink Cake (3)" },
+            { "Dye Bundle": ["Red Mushroom", "Sea Urchin", "Sunflower", "Duck Feather", "Aquamarine", "Red Cabbage"], "need": 6, "reward": "Seed Maker" },
+            { "Field Research Bundle": ["Purple Mushroom", "Nautilus Shell", "Chub", "Frozen Geode"], "need": 4, "reward": "Recycling Machine" },
+            { "Fodder Bundle": ["Wheat (10)", "Hay (10)", "Apple (3)"], "need": 3, "reward": "Heater" },
+            { "Enchanter's Bundle": ["Oak Resin", "Wine", "Rabbit's Foot", "Pomegranate"], "need": 4, "reward": "Gold Bar (5)" }
+        ]
+    },
+    "Vault": {
+        "reward": "Bus Repair",
+        "bundles": [
+            { "2,500 Bundle": ["2,500g"], "need": 1, "reward": "Chocolate Cake (3)" },
+            { "5,000 Bundle": ["5,000g"], "need": 1, "reward": "Quality Fertilizer (30)" },
+            { "10,000 Bundle": ["10,000g"], "need": 1, "reward": "Lightning Rod" },
+            { "25,000 Bundle": ["25,000g"], "need": 1, "reward": "Crystalarium" }
+        ]
+    }
+}
